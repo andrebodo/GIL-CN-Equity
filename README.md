@@ -1,2 +1,3 @@
-# GIL-CN-Equity
+# GIL CN Equity
+
 Equity research for Gildan Activewear Inc.
